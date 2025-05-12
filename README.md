@@ -1,1 +1,1 @@
-# Tarea-2-Paradigmas-de-Progremacion
+# Tarea-2-Paradigmas-de-Programacion
